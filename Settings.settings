@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pipeline" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PageCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">258</Value>
+    </Setting>
+    <Setting Name="RecordCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3861</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
