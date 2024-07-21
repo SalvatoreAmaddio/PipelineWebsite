@@ -8,3 +8,5 @@ For privacy purposes, some information has been omitted such as:
 Therefore, if you would try to debug this code, it won't work.
 
 Yet you can see how I have approached the problem.
+
+![Alt text](https://github.com/SalvatoreAmaddio/PipelineWebsite/blob/main/static/Flow-Chart.png)
